@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+footer img{
+    height: 30px ; 
+    width: 30px;
+}
+
+footer h2{
+    font-family: 'Times New Roman';
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+footer {
+    background-image:linear-gradient(to right , rgb(118, 0, 0) , rgb(0, 0, 0));
+}
+
+body h1{
+    font-family: 'Times New Roman';
+    text-align: center;
+    color: black;
+}
+
+.q{
+    height: 150px;
+}
+
+.q:hover{
+    border: 3px inset purple;
+    height: 180px;
+    transition: all 0.5s ease-out;
+}
+
+a{
+    font-family: 'Times New Roman';
+    background-color: blueviolet;
+}
+
+.w{
+    background-color: darkred;
+}
+
+.e{
+    height: 150px;
+}
+
+.e:hover{
+    border: 3px inset darkred;
+    height: 180px;
+    transition: all 0.5s ease-out;
+}
